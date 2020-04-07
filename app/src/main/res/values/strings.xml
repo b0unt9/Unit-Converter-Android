@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">단위 변환기</string>
+    <string name="action_settings">설정</string>
+    <string name="title_activity_convert">변환</string>
+
+    <string name="source_value">소스 값</string>
+    <string name="result_value">결과 값</string>
+
+    <string name="mass">무게</string>
+    <string name="temperature">온도</string>
+    <string name="volume">부피</string>
+    <string name="speed">속도</string>
+    <string name="length">길이</string>
+    <string name="memory">메모리</string>
+    <string name="time">시간</string>
+    <string name="area">면적</string>
+
+    <string name="kilogram">킬로그램</string>
+    <string name="milligram">밀리그램</string>
+    <string name="gram">그램</string>
+    <string name="tonne">톤</string>
+    <string name="hundredweight">헌드레드웨이트</string>
+
+    <string name="kilogramsymbol">KG</string>
+    <string name="gramsymbol">G</string>
+    <string name="milligramsymbol">MG</string>
+    <string name="hundredweightsymbol">CWT</string>
+    <string name="tonnesymbol">T</string>
+
+    <string name="millilitre">밀리리터</string>
+    <string name="cubicmetre">세제곱미터</string>
+    <string name="litre">리터</string>
+    <string name="gallon">갤런</string>
+    <string name="barrel">배럴</string>
+
+    <string name="litresymbol">L</string>
+    <string name="millilitresymbol">ml</string>
+    <string name="gallonsymbol">gal</string>
+    <string name="barrelsymbol">ba</string>
+
+    <string name="metre">미터</string>
+    <string name="millimetre">밀리미터</string>
+    <string name="centimetre">센티미터</string>
+    <string name="decimetre">데시미터</string>
+    <string name="kilometre">킬로미터</string>
+    <string name="inch">인치</string>
+    <string name="mile">마일</string>
+    <string name="foot">피트</string>
+    <string name="yard">야드</string>
+    <string name="astronomicalunit">천문 단위</string>
+    <string name="parsec">파섹</string>
+    <string name="lightyear">광넌</string>
+
+    <string name="metresymbol">M</string>
+    <string name="millimetresymbol">MM</string>
+    <string name="centimetresymbol">CN</string>
+    <string name="decimetresymbol">DM</string>
+    <string name="kilometresymbol">KM</string>
+    <string name="inchsymbol">in</string>
+    <string name="milesymbol">mi</string>
+    <string name="footsymbol">ft</string>
+    <string name="yardsymbol">yd</string>
+    <string name="astronomicalunitsymbol">AU</string>
+    <string name="parsecsymbol">pc</string>
+    <string name="lightyearsymbol">LY</string>
+
+    <string name="fahrenheit">화씨</string>
+    <string name="celsius">섭씨</string>
+    <string name="kelvin">켈빈</string>
+
+    <string name="kelvinsymbol">K</string>
+    <string name="celsiussymbol">°C</string>
+    <string name="fahrenheitsymbol">°F</string>
+
+    <string name="metrespersecond">초당 미터</string>
+    <string name="kilometresperhour">시간당 킬로미터</string>
+    <string name="knots">노트</string>
+    <string name="footspersecond">초당 피트</string>
+    <string name="milesperhour">시간당 마일</string>
+
+    <string name="mpssymbol">m/s</string>
+    <string name="kmpssymbol">km/h</string>
+    <string name="miphsymbol">mi/h</string>
+    <string name="ftpssymbol">ft/s</string>
+    <string name="knotssymbol">kn</string>
+
+    <string name="microsecond">마이크로 초</string>
+    <string name="millisecond">밀리 초</string>
+    <string name="second">초</string>
+    <string name="minute">분</string>
+    <string name="hour">시간</string>
+    <string name="day">일</string>
+    <string name="week">주</string>
+    <string name="year">년</string>
+
+    <string name="millisecondsymbol">ms</string>
+    <string name="microsecondsymbol">μs</string>
+    <string name="secondsymbol">s</string>
+    <string name="minutesymbol">min</string>
+    <string name="hoursymbol">h</string>
+    <string name="daysymbol">d</string>
+    <string name="weeksymbol">w</string>
+    <string name="yearsymbol">y</string>
+
+    <string name="bit">비트</string>
+    <string name="memorybyte">바이트</string>
+    <string name="kilobyte">킬로바이트</string>
+    <string name="megabyte">메가바이트</string>
+    <string name="gigabyte">기가바이트</string>
+    <string name="terabyte">테라바이트</string>
+    <string name="petabyte">페타바이트</string>
+
+    <string name="bit_symbol">b</string>
+    <string name="memorybytesymbol">B</string>
+    <string name="kilobytesymbol">kB</string>
+    <string name="megabytesymbol">MB</string>
+    <string name="gigabytesymbol">GB</string>
+    <string name="terabytesymbol">TB</string>
+    <string name="petabytesymbol">PB</string>
+
+    <string name="squaremetre">제곱 미터</string>
+    <string name="squarecentimetre">제곱 센티민터</string>
+    <string name="squaremillimetre">제곱 밀리미터</string>
+    <string name="squarekilometre">제곱 킬로미터</string>
+    <string name="squarefoot">제곱 피트</string>
+    <string name="squareyard">제곱 야드</string>
+    <string name="squaremile">제곱 마일</string>
+    <string name="squareinch">제곱 인치</string>
+    <string name="hectare">헥타르</string>
+    <string name="are">아르</string>
+    <string name="acre">에이커</string>
+
+    <string name="hectaresymbol">ha</string>
+    <string name="aresymbol">a</string>
+    <string name="acresymbol">Acre</string>
+
+    <string name="zero_hint">0</string>
+    <string name="loading_data">데이터 로딩중...</string>
+    <string name="copy_result_toast">클립 보드에 복사</string>
+
+</resources>
